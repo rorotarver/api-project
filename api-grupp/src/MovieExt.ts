@@ -6,6 +6,12 @@ const get = async () =>  {
     return response.data;
 }
 
-const x = document.getElementById('btnMovie');
+const getMovieById = async () => {
+    
+}
+
+const btnMovie = document.getElementById('btnMovie') {
+    
+}
 
 get ();
